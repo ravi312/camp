@@ -13,7 +13,11 @@ This summer, explore the basics of chess with the **"Beginner"** or **"Intermedi
 - Collaborative Learning (Have a cohort to work along)
 - Nurture analytical thinking skills by learning chess
 
-The lead coach for the camp is an International Rated chess player with Elo rating of 1500+.
+![](/pic.png)
+
+The camp is designed by Aishwarya, who will be the lead coach for the sessions. Aishwarya is an International Rated chess player with Elo rating of 1582. She is also working in collaboration with leading institutes in Delhi as part of after-school chess academy.  
+
+> **email:** _aishwarya4080@gmail.com_
 
 Here are the details of the module which will help you decide which one to enroll in.
 
@@ -39,7 +43,7 @@ The details and schedule for the camp are as follow:
 > 
 > - 22 June - 29 June ( 8 sessions of 1 hour each)
 > - Time: 10 am -11 am 
-> - Fees: Rs 2000
+> - Fees: Rs 2500
 >
 > ## To register: Fill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSel70RD2ATSbWHFtL2qOEg09xEYcKQj_FpQ2b2helC9SGYRaQ/viewform)
 
@@ -61,6 +65,6 @@ The details and schedule for the camp are as follow:
 > ### Module 2: Intermediate
 > - 22 June - 29 June ( 8 sessions of 1 hour each)
 > - Time: 11:30 am - 12:30 pm 
-> - Fees: Rs 2000 
+> - Fees: Rs 2500 
 > 
 > ## To register: Fill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSel70RD2ATSbWHFtL2qOEg09xEYcKQj_FpQ2b2helC9SGYRaQ/viewform)

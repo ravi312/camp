@@ -2,13 +2,14 @@
 
 ![](./chess1.png)
 
-Are you interested to enrol your child in a chess classes? Explore the basics of chess in small batch size of 6-8 students with 8 session of hour long each every month. The mentoring will be done online.
+Are you interested to enrol your child in chess class? Explore the basics of chess in small batch size of 6-8 students with 8 session of hour long each every month. The mentoring will be done online.
 
 ## Key highlights
 
 - Small group size leading to better understanding
 - Collaborative Learning (Have a cohort to work along)
 - Nurture analytical thinking skills by learning chess
+- Designed for children
 
 ## Know the coach
 
@@ -53,7 +54,7 @@ The following topics will be explored:
 
 ## Intermediate Batch
 
-If you have either already familiar with the basics, you can be part of intermediate batch to strengthen the positional play and experience the theory in action.  
+If you are already familiar with the basics, you can be part of intermediate batch to strengthen the positional play and experience the theory in action.  
 
 The following topics will be explored:
 

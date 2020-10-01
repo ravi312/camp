@@ -1,23 +1,30 @@
-# Learning chess fundamentals  
+## Learning chess fundamentals with Aishwarya
 
-![](./chess1.png)
 
-Are you interested to enrol your child in chess class? Explore the basics of chess in small batch size of 6-8 students with 8 session of hour long each every month. The mentoring will be done online.
+Are you interested to enrol your child in chess classes? Depending on the current level, currently there are two batches which one can enrol in - Beginner or Intermediate. The mentoring is done online in small batch size.
 
-## Key highlights
+![](./chess-pic-2.png)
+
+### Key highlights
 
 - Small group size leading to better understanding
 - Collaborative Learning (Have a cohort to work along)
 - Nurture analytical thinking skills by learning chess
 - Designed for children
 
-## Know the coach
+<img vspace="10" hspace="10" align="right" width="200" height="200" src="/pic.png"> The sessions are designed and lead by Aishwarya, who is an International Rated chess player with Elo rating of 1582. She has experience of working  with young people to introduce them to the foundational concepts of chess in a meaningful and engaging way.
 
-![](/pic.png)
 
-The camp is designed and lead by Aishwarya, who is an International Rated chess player with Elo rating of 1582. She has experience of working  with young people to introduce them to the foundation of chess concepts in a meaningful and engaging way.  
+> ### To register for the demo: Fill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSel70RD2ATSbWHFtL2qOEg09xEYcKQj_FpQ2b2helC9SGYRaQ/viewform)
+> ![](./chess1.png)
+> 
+> In case of queries, you can contact at **_aishwarya4080@gmail.com_**
 
-> **email:** _aishwarya4080@gmail.com_
+### Glipmses of mentorship 
+
+![](./chess-pic-1.png)
+
+
 
 ### Professional Experience
 
@@ -35,8 +42,8 @@ The camp is designed and lead by Aishwarya, who is an International Rated chess 
 - Secured 1st - 3rd positions in every CBSE East Zone Chess Tournament (under 14 age group) held between 2005 & 2010
 - Secured 1st position in every Dhanbad District Chess Championship women category held between 2005 and 2013
 
-
-## Beginner Batch
+---
+## About Beginner Batch
 
 If you are completely new to the game or if you just know the basics, you can enrol for this module.
 
@@ -52,7 +59,9 @@ The following topics will be explored:
 - Stalemate
 - Puzzles and Games with peers
 
-## Intermediate Batch
+---
+
+## About Intermediate Batch
 
 If you are already familiar with the basics, you can be part of intermediate batch to strengthen the positional play and experience the theory in action.  
 
@@ -65,5 +74,4 @@ The following topics will be explored:
 - Tactics - forks, pins, discover attack, double-check
 - Puzzles
 
-
-## To register for the demo: Fill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSel70RD2ATSbWHFtL2qOEg09xEYcKQj_FpQ2b2helC9SGYRaQ/viewform)
+---

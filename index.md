@@ -12,6 +12,8 @@ Are you interested to enrol your child in chess classes? Depending on the curren
 - Nurture analytical thinking skills by learning chess
 - Designed for children
 
+### Know your coach
+
 <img vspace="10" hspace="10" align="right" width="200" height="200" src="/pic.png"> The sessions are designed and lead by Aishwarya, who is an International Rated chess player with Elo rating of 1582. She has experience of working  with young people to introduce them to the foundational concepts of chess in a meaningful and engaging way.
 
 

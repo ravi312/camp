@@ -1,4 +1,4 @@
-## Learning chess fundamentals with Aishwarya
+## Learn chess fundamentals with Aishwarya
 
 
 Are you interested to enrol your child in chess classes? Depending on the current level, currently there are two batches which one can enrol in - Beginner or Intermediate. The mentoring is done online in small batch size.

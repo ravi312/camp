@@ -17,7 +17,9 @@ Are you interested to enrol your child in chess classes? Depending on the curren
 
 ### Know your coach
 
-<img vspace="10" hspace="10" align="right" width="316" height="208" src="/pic-1.jpg"> The sessions are designed and lead by Aishwarya, who is an International Rated chess player with Elo rating of 1582. She has experience of working  with young people to introduce them to the foundational concepts of chess in a meaningful and engaging way.
+![](./pic-1.jpg)
+
+The sessions are designed and lead by Aishwarya, who is an International Rated chess player with Elo rating of 1582. She has experience of working  with young people to introduce them to the foundational concepts of chess in a meaningful and engaging way.
 
 > **email:** _aishwarya4080@gmail.com_
 

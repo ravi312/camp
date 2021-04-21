@@ -4,7 +4,8 @@
 
 I am a chess educator, National Instructor, FIDE Arbiter, and International Rated chess player with elo Rating of 1582. I graduated from Shri Ram College of Commerce (SRCC) in B.Com. (Hons) and later decided to pursue my passion in chess. I am interested in exploring ways chess can help child nurture their problem solving skills. Chess is part of curriculum in many schools across the world due to cognitive development benefits this sport brings in a child’s life. I have an experience of working with children to introduce them to the foundational concepts of chess in a meaningful and engaging way. I have been coaching and mentoring children in chess since the past 4+ years. I am also interested in designing equitable learning opportunities and courses to popularize chess among young people. 
 
-![](./chess-pic-1.png)
+![](./chess-pic-1.png)  
+![](./chess-pic-2.png)
 
 ## Why chess?
 
@@ -101,14 +102,14 @@ The following topics will be explored:
   - Hook mate
   - Legal's mate
   - Morphy's mate  
- - Mate in two moves
- - Short Tactical Games
- - Best Games of the Grandmasters
- - Stalemate combinations
- - Bishop Knight checkmate
- - Double Bishop Checkmate
+- Mate in two moves
+- Short Tactical Games
+- Best Games of the Grandmasters
+- Stalemate combinations
+- Bishop Knight checkmate
+- Double Bishop Checkmate
 
-## Achievements
+## Achievements of Ms Aishwarya
 
 **Chess (2005 – Present): International Chess Player with FIDE rating 1582, played 8 international rated tournaments**
 

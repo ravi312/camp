@@ -1,30 +1,114 @@
 ## Learn chess fundamentals with Aishwarya
 
-
-Are you interested to enrol your child in chess classes? Currently there are two batches which one can enrol in - Beginner or Intermediate. The mentoring will be done online.
-
-![](./chess-pic-2.png)
-
-### Key highlights
-
-- Collaborative Learning (Have a cohort to work along)
-- Nurture analytical thinking skills by learning chess
-- Designed for children
-
-> ## To register for the demo: Fill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSel70RD2ATSbWHFtL2qOEg09xEYcKQj_FpQ2b2helC9SGYRaQ/viewform)
-> ![](./chess1.png)
-
-### Know your coach
-
 ![](./pic-1.jpg)
 
-The sessions are designed and lead by Aishwarya, who is an International Rated chess player with Elo rating of 1582. She has experience of working  with young people to introduce them to the foundational concepts of chess in a meaningful and engaging way.
-
-> **email:** _aishwarya4080@gmail.com_
+I am a chess educator, National Instructor, FIDE Arbiter, and International Rated chess player with elo Rating of 1582. I graduated from Shri Ram College of Commerce (SRCC) in B.Com. (Hons) and later decided to pursue my passion in chess. I am interested in exploring ways chess can help child nurture their problem solving skills. Chess is part of curriculum in many schools across the world due to cognitive development benefits this sport brings in a child’s life. I have an experience of working with children to introduce them to the foundational concepts of chess in a meaningful and engaging way. I have been coaching and mentoring children in chess since the past 4+ years. I am also interested in designing equitable learning opportunities and courses to popularize chess among young people. 
 
 ![](./chess-pic-1.png)
 
-### Professional Experience
+### Why chess?
+
+Research from around the world reveals that chess can be used as a learning tool to improve children’s critical thinking and problem-solving skills. Various studies have shown that chess makes children more reflective and enhances visual memory, attention span, spatial skills, and  decision-making.  
+With the vision to make chess accessible to children with little or no chess background, the online academy envisages to provide a platform to nurture innate curiosity and creative expression and sharpen analytical thinking in every child. The game of chess teaches important life skills such as emotional intelligence and thinking beyond the present moment, and sportsmanship.
+
+## Key highlights
+
+The online academy provides
+- Structured classes
+- Live Interaction 
+- Problem-solving techniques
+- Online Tournaments
+- Puzzles to challenge tactical thinking skills 
+- Certificate to participants on completion of course
+- Collaborative Learning (Have a cohort to work along)
+- Curriculum designed for children
+
+## To enrol for the course, kindly reach out
+
+> **email:** _aishwarya4080@gmail.com_
+> **phone no:** +91 - 7739304438
+> You can also fill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSel70RD2ATSbWHFtL2qOEg09xEYcKQj_FpQ2b2helC9SGYRaQ/viewform)
+
+## About the curriculum
+
+### The Beginner Curriculum (Level - I)
+
+The Beginner Level I course is designed for 6 months. This level deals with the basics. The students will learn about the chessboard, piece movement. Also the different stages of the game, chess tactics, various tricks that can be applied in the game.
+
+The following topics will be explored:
+
+- About chess pieces and its value
+- Purpose of game
+- The art of moving the Pieces
+- Attacking & Capturing Pieces
+- Checkmate
+- Stalemate
+- Special moves
+  - En passant
+  - Castling
+  - Pawn promotion
+- Chess notation
+- Introduction to three phases of the game (opening, middle game, and endgame)
+- Opening Principles
+- Endgame
+  - Single Queen Checkmate
+  - Single Rook Checkmate
+  - Double Rook Checkmate
+- Middle Game Combination
+- Pawn promotion and Simple king pawn endgame
+- Mate in one
+- Trapping pieces
+- Game Analysis
+- Tactics
+  - Fork
+  - Pin
+  - Discovery
+  - Skewer
+  - Double Attack
+  -  Double-Check
+  - Decoy
+  - Removal of the Guard
+  - Deflection
+  - Overloading
+  - Mixed Tactics
+
+### The Beginner Curriculum (Level - II)
+
+The Beginner Level II course is designed for 6 months. This level deals with the different types of checkmate patterns. A good start should also end with a good finish. We will learn some simple strategies that help us dominate the ending stage. We will also learn new tactics such as windmill, intermediate moves, clearance sacrifice etc. that can be applied in the game
+
+The following topics will be explored:
+
+- Smothered mate
+- Greek-gift sacrifice
+- Windmill
+- Queen vs 7th rank pawn endgame
+- Mixed combinations
+- How to take advantage of the open file, open diagonal, and the rank
+- Perpetual check
+- Introduction to the openings
+- Forced variations
+- Clearance Sacrifice
+- Intermediate moves
+- Queen rook battery
+- Queen bishop battery
+- Mating Patterns:
+  - Anastasia's mate
+  - Arabian mate
+  - Boden\'s mate
+  - Pillsbury's mate
+  - Lolli's mate
+  - Damiano's mate
+  - Hook mate
+  - Legal's mate
+  - Morphy's mate
+- Mate in two moves
+- Short Tactical Games
+- Best Games of the Grandmasters
+- Stalemate combinations
+- Bishop Knight checkmate
+- Double Bishop Checkmate
+
+## Achievements of Ms Aishwarya
 
 - Chess (2005 – Present): International Chess Player with FIDE rating 1582, played 8 international tournaments
 - Secured 14th rank in Asian Youth Chess Championship in under 10 girls category held at New Delhi on December 2005
@@ -40,36 +124,3 @@ The sessions are designed and lead by Aishwarya, who is an International Rated c
 - Secured 1st - 3rd positions in every CBSE East Zone Chess Tournament (under 14 age group) held between 2005 & 2010
 - Secured 1st position in every Dhanbad District Chess Championship women category held between 2005 and 2013
 
----
-## About Beginner Batch
-
-If you are completely new to the game or if you just know the basics, you can enrol for this module.
-
-The following topics will be explored:
-
-- Introduction to the pieces, 
-- Purpose of the game
-- Opening basics: the art of moving the Pieces
-- Basic Rules, Attacking & Capturing, 
-- Notation
-- Special Moves, Castling Rules
-- Checkmate
-- Stalemate
-- Puzzles and Games with peers
-
----
-
-## About Intermediate Batch
-
-If you are already familiar with the basics, you can be part of intermediate batch to strengthen the positional play and experience the theory in action.  
-
-The following topics will be explored:
-
-- Gambits 
-- Single Queen Checkmate
-- Single Rook Checkmate 
-- Double Rook Checkmate
-- Tactics - forks, pins, discover attack, double-check
-- Puzzles
-
----

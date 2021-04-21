@@ -44,33 +44,33 @@ The following topics will be explored:
 - Checkmate
 - Stalemate
 - Special moves
-  - En passant
-  - Castling
-  - Pawn promotion  
+  * En passant
+  * Castling
+  * Pawn promotion  
 - Chess notation
 - Introduction to three phases of the game (opening, middle game, and endgame)
 - Opening Principles
 - Endgame
-  - Single Queen Checkmate
-  - Single Rook Checkmate
-  - Double Rook Checkmate  
+  * Single Queen Checkmate
+  * Single Rook Checkmate
+  * Double Rook Checkmate  
 - Middle Game Combination
 - Pawn promotion and Simple king pawn endgame
 - Mate in one
 - Trapping pieces
 - Game Analysis
 - Tactics
-  - Fork
-  - Pin
-  - Discovery
-  - Skewer
-  - Double Attack
-  -  Double-Check
-  - Decoy
-  - Removal of the Guard
-  - Deflection
-  - Overloading
-  - Mixed Tactics
+  * Fork
+  * Pin
+  * Discovery
+  * Skewer
+  * Double Attack
+  * Double-Check
+  * Decoy
+  * Removal of the Guard
+  * Deflection
+  * Overloading
+  * Mixed Tactics
 
 ### The Beginner Curriculum (Level - II)
 

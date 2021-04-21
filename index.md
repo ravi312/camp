@@ -94,19 +94,19 @@ The following topics will be explored:
 - Mating Patterns:
   - Anastasia's mate
   - Arabian mate
-  - Boden\'s mate
+  - Boden's mate
   - Pillsbury's mate
   - Lolli's mate
   - Damiano's mate
   - Hook mate
   - Legal's mate
   - Morphy's mate  
-- Mate in two moves
-- Short Tactical Games
-- Best Games of the Grandmasters
-- Stalemate combinations
-- Bishop Knight checkmate
-- Double Bishop Checkmate
+ - Mate in two moves
+ - Short Tactical Games
+ - Best Games of the Grandmasters
+ - Stalemate combinations
+ - Bishop Knight checkmate
+ - Double Bishop Checkmate
 
 ## Achievements
 

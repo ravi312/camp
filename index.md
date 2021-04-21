@@ -6,7 +6,7 @@ I am a chess educator, National Instructor, FIDE Arbiter, and International Rate
 
 ![](./chess-pic-1.png)
 
-### Why chess?
+## Why chess?
 
 Research from around the world reveals that chess can be used as a learning tool to improve children’s critical thinking and problem-solving skills. Various studies have shown that chess makes children more reflective and enhances visual memory, attention span, spatial skills, and  decision-making.  
 With the vision to make chess accessible to children with little or no chess background, the online academy envisages to provide a platform to nurture innate curiosity and creative expression and sharpen analytical thinking in every child. The game of chess teaches important life skills such as emotional intelligence and thinking beyond the present moment, and sportsmanship.
@@ -25,8 +25,8 @@ The online academy provides
 
 ## To enrol for the course, kindly reach out
 
-> **email:** _aishwarya4080@gmail.com_
-> **phone no:** +91 - 7739304438
+> **email:** _aishwarya4080@gmail.com_  
+> **phone no:** +91 - 7739304438  
 > You can also fill the form [here](https://docs.google.com/forms/d/e/1FAIpQLSel70RD2ATSbWHFtL2qOEg09xEYcKQj_FpQ2b2helC9SGYRaQ/viewform)
 
 ## About the curriculum
@@ -46,14 +46,14 @@ The following topics will be explored:
 - Special moves
   - En passant
   - Castling
-  - Pawn promotion
+  - Pawn promotion  
 - Chess notation
 - Introduction to three phases of the game (opening, middle game, and endgame)
 - Opening Principles
 - Endgame
   - Single Queen Checkmate
   - Single Rook Checkmate
-  - Double Rook Checkmate
+  - Double Rook Checkmate  
 - Middle Game Combination
 - Pawn promotion and Simple king pawn endgame
 - Mate in one
@@ -74,7 +74,7 @@ The following topics will be explored:
 
 ### The Beginner Curriculum (Level - II)
 
-The Beginner Level II course is designed for 6 months. This level deals with the different types of checkmate patterns. A good start should also end with a good finish. We will learn some simple strategies that help us dominate the ending stage. We will also learn new tactics such as windmill, intermediate moves, clearance sacrifice etc. that can be applied in the game
+The Beginner Level II course is designed for 6 months. This level deals with the different types of checkmate patterns. A good start should also end with a good finish. We will learn some simple strategies that help us dominate the ending stage. We will also learn new tactics such as windmill, intermediate moves, clearance sacrifice etc. that can be applied in the game.
 
 The following topics will be explored:
 
@@ -100,7 +100,7 @@ The following topics will be explored:
   - Damiano's mate
   - Hook mate
   - Legal's mate
-  - Morphy's mate
+  - Morphy's mate  
 - Mate in two moves
 - Short Tactical Games
 - Best Games of the Grandmasters

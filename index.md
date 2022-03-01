@@ -113,6 +113,7 @@ The following topics will be explored:
 
 **Chess (2005 – Present): International Chess Player with FIDE rating 1582, played 8 international rated tournaments**
 
+- Secured 2nd position in Delhi State Online Women Chess Championship 2021
 - Awarded the title of National Instructor by FIDE (World Chess Federation) in 2020 by successfully clearing the examination.
 - Awarded the title of FIDE Arbiter by FIDE (World Chess Federation) in 2020 by successfully clearing the examination.
 - Secured 3rd position in Delhi State Women Chess Championship 2019
@@ -129,3 +130,13 @@ The following topics will be explored:
 - Secured 1st position in CBSE East Zone Chess Tournament 2010-11 & 2013-14 respectively in (under 19 age group)
 - Secured 1st - 3rd positions in every CBSE East Zone Chess Tournament (under 14 age group) held between 2005 - 2010
 - Secured 1st position in every Dhanbad District Chess Championship women category held between 2005 - 2013
+
+**Chess Officiating**
+
+- Worked as an Arbiter in **National Junior and Senior Online Chess Championship** from 22nd - 28th July 2021 organised by All India Chess Federation.
+- Worked as an Arbiter in **National Schools Online Chess Championship** from 5th - 16th July 2021 organised by All India Chess Federation.
+- Worked as a freelancer with Chess.com and Chesskid at Asia’s biggest chess tournament held in Delhi from 9th - 16th January 2019
+- Officiated three Chess tournaments for Delhi Technological University: Triquetra from 1st - 3rd Nov 2018,  Aahvaan from 22nd - 24th Feb 2019,  Aahvaan from  21st - 23rd Feb 2020.
+- Worked as an Arbiter in 18th Delhi International Open Grandmasters Chess Tournament 2020 CAt "B" - below 1900 from 9th - 12th Jan 2020
+- Worked as an Arbiter in 18th Delhi International Open Grandmasters Chess Tournament 2020 CAt "C" from 13th -16th Jan 2020
+- Worked as an Arbiter in 5th Shri Ambeesh Sinha memorial Rapid FIDE Rating from 2nd - 3rd Nov 2019

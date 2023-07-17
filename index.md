@@ -133,10 +133,18 @@ The following topics will be explored:
 
 **Chess Officiating**
 
-- Worked as an Arbiter in **National Junior and Senior Online Chess Championship** from 22nd - 28th July 2021 organised by All India Chess Federation.
-- Worked as an Arbiter in **National Schools Online Chess Championship** from 5th - 16th July 2021 organised by All India Chess Federation.
+- Arbiter - 14th KIIT International Chess Festival - 2023 (Category 'C' - Below 1600) - Jul23
+- Chief Arbiter - 55th Inter IIT Sports Meet 2022 IIT Delhi - Dec22
+- Arbiter - **44th FIDE Chess Olympiad Chennai 2022 Open** - Sep22
+- Anticheating Arbiter - Olympiad Curtain Raiser Rapid Rating Chess Tournament-2022 - Aug22
+- Arbiter - 1st Maharashtra Open Grandmasters Chess Tournament - Jul22
+- Arbiter - Gitam 3rd Vizag International Open Grandmasters Chess Tournament-2022 (Category 'A') - Jul22
+- Arbiter - 19th Delhi International Open Grandmasters Chess Tournament-2022 - Apr22
+- Arbiter - 18th Delhi International Open Grandmasters Chess Tournament 2020 CAt "B" - below 1900 - Feb20
+- Arbiter - **National Junior and Senior Online Chess Championship** from 22nd - 28th July 2021 organised by All India Chess Federation.
+- Arbiter - **National Schools Online Chess Championship** from 5th - 16th July 2021 organised by All India Chess Federation.
 - Worked as a freelancer with Chess.com and Chesskid at Asia’s biggest chess tournament held in Delhi from 9th - 16th January 2019
 - Officiated three Chess tournaments for Delhi Technological University: Triquetra from 1st - 3rd Nov 2018,  Aahvaan from 22nd - 24th Feb 2019,  Aahvaan from  21st - 23rd Feb 2020.
-- Worked as an Arbiter in 18th Delhi International Open Grandmasters Chess Tournament 2020 CAt "B" - below 1900 from 9th - 12th Jan 2020
-- Worked as an Arbiter in 18th Delhi International Open Grandmasters Chess Tournament 2020 CAt "C" from 13th -16th Jan 2020
-- Worked as an Arbiter in 5th Shri Ambeesh Sinha memorial Rapid FIDE Rating from 2nd - 3rd Nov 2019
+- Arbiter - 18th Delhi International Open Grandmasters Chess Tournament 2020 CAt "B" - below 1900 from 9th - 12th Jan 2020
+- Arbiter - 18th Delhi International Open Grandmasters Chess Tournament 2020 CAt "C" from 13th -16th Jan 2020
+- Arbiter - 5th Shri Ambeesh Sinha memorial Rapid FIDE Rating from 2nd - 3rd Nov 2019
